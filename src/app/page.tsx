@@ -57,8 +57,8 @@ const projects = [
     description:
       "Real-time cryptocurrency tracking dashboard with interactive charts, portfolio management, and price alerts using public API data.",
     tags: ["React", "Recharts", "REST API"],
-    link: "#",
-    github: "#",
+    link: "https://ceps12.github.io/crypto-dashboard/",
+    github: "https://github.com/ceps12/crypto-dashboard",
   },
   {
     title: "Task Manager",
