@@ -49,8 +49,8 @@ const projects = [
     description:
       "Reusable component library built with TypeScript and Storybook. Includes buttons, modals, cards, inputs, and more with full accessibility support.",
     tags: ["React", "TypeScript", "Storybook"],
-    link: "#",
-    github: "#",
+    link: "https://ceps12.github.io/react-ui-kit/",
+    github: "https://github.com/ceps12/react-ui-kit",
   },
   {
     title: "Crypto Dashboard",
