@@ -65,8 +65,8 @@ const projects = [
     description:
       "Full-stack task management app with authentication, drag-and-drop boards, and real-time collaboration features.",
     tags: ["Next.js", "Firebase", "DnD Kit"],
-    link: "#",
-    github: "#",
+    link: "https://task-manager-ceps12.vercel.app/",
+    github: "https://github.com/ceps12/task-manager",
   },
   {
     title: "CSS Animations",
