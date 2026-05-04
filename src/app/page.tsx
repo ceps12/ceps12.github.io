@@ -69,12 +69,12 @@ const projects = [
     github: "https://github.com/ceps12/task-manager",
   },
   {
-    title: "CSS Animations",
-    description:
-      "Collection of 30+ beautiful CSS animations and hover effects. Pure CSS, no dependencies. A playground for creative web interactions.",
-    tags: ["CSS", "Animation", "Creative"],
-    link: "#",
-    github: "#",
+      title: "CSS Animations",
+      description:
+        "Collection of 30+ beautiful CSS animations and hover effects. Pure CSS, no dependencies. A playground for creative web interactions.",
+      tags: ["CSS", "Animation", "Creative"],
+      link: "https://ceps12.github.io/css-animations/",
+      github: "https://github.com/ceps12/css-animations",
   },
 ];
 
